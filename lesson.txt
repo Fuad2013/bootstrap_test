@@ -1,0 +1,27 @@
+large scree lg
+medium 		md 
+small 		sm
+mobile 		xs 
+
+
+col-lg-4 
+
+grid 12 block
+
+
+
+
+visible show just this 
+hidden hide this item
+
+
+hidden-xs-block
+hidden-xs-inline
+
+
+offset to left a space after the item 
+example :
+<div class="col-lg-3 col-lg-offset-3 col-md-6 col-xs-12" > 
+make space after col as 3 columns 
+
+color : #e41b17 
